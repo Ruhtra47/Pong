@@ -5,6 +5,7 @@ from kivy.vector import Vector
 from kivy.clock import Clock
 from random import randint
 
+#alteracao lucas construkids
 
 class PongBall(Widget):
     velocity_x = NumericProperty(0)
